@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Hung Do, a graduate student at Drexel University doing an accelerated BS/MS degree in Computer Science with a minor in Mathematics.
+- 👋 Hi, I’m Hung Do, I recently graduated at Drexel University with both a BS and MS in Computer Science and a minor in Mathematics.
 - My LinkedIn can be found here: https://www.linkedin.com/in/hdo/
