@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Hung Do. I recently graduated at Drexel University with both a BS and MS in Computer Science and a minor in Mathematics.
+- 👋 Hi, I’m Hung Do. I recently graduated at Drexel University with both a BS and MS in Computer Science, Honors with Distinction, and a minor in Mathematics.
 - My LinkedIn can be found here: https://www.linkedin.com/in/hdo/
